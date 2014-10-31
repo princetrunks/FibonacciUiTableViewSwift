@@ -15,6 +15,6 @@ The second way of creating the sequence is thus that faster method (called simpl
 The numbers are inputed by the user with a UITextField.
 
 Current Bugs:
-GUI was done really fast so it only looks correct on iPhone screens.  Could be edited with autolayout to work universaly 
+GUI was done really fast so it only looks correct on iPhone screens.  Could be edited with autolayout to work universally 
 
-![My image](princetrunks.github.com/FibonacciUiTableViewSwift/tree/master/FibonacciSequence/Images.xcassets/Fibonacci_spiral_34.imageset/Fibonacci_spiral_34.png)
+![My image](http://i.imgur.com/D18P5ln.png)
